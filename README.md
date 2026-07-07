@@ -1,0 +1,10 @@
+> ## Courses: 
+- [Stat-401 ~ Multivariate Analysis](https://naim88.pages.dev/mdreader/?view=https://raw.githubusercontent.com/monaemHosain/4th-year/refs/heads/main/401.md)
+- [Stat-402 ~ Design of Experiments - II](https://naim88.pages.dev/mdreader/?view=https://raw.githubusercontent.com/monaemHosain/4th-year/refs/heads/main/402.md)
+- [Stat-403 ~ Biostatistics and Epidemiology](https://naim88.pages.dev/mdreader/?view=https://raw.githubusercontent.com/monaemHosain/4th-year/refs/heads/main/403.md)
+- [Stat-404 ~ Applied Econometrics](https://naim88.pages.dev/mdreader/?view=https://raw.githubusercontent.com/monaemHosain/4th-year/refs/heads/main/404.md)
+- [Stat-405 ~ Mathematical Demography](https://naim88.pages.dev/mdreader/?view=https://raw.githubusercontent.com/monaemHosain/4th-year/refs/heads/main/405.md)
+- [Stat-406 ~ Statistical Inference - II & Non-Parametric Methods](https://naim88.pages.dev/mdreader/?view=https://raw.githubusercontent.com/monaemHosain/4th-year/refs/heads/main/406.md)
+- [Stat-407 ~ Sampling Techniques](https://naim88.pages.dev/mdreader/?view=https://raw.githubusercontent.com/monaemHosain/4th-year/refs/heads/main/407.md)
+- [Stat-408 ~ Operations Research & Linear Programming](https://naim88.pages.dev/mdreader/?view=https://raw.githubusercontent.com/monaemHosain/4th-year/refs/heads/main/408.md)
+- [Stat-409 ~ Statistical Data Mining](https://naim88.pages.dev/mdreader/?view=https://raw.githubusercontent.com/monaemHosain/4th-year/refs/heads/main/409.md)
